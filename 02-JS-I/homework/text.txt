@@ -1,0 +1,5 @@
+Variable: es lo que nos da la posibilidad de asignar un valor a algo para poder usarlo despues
+String: es un hilo de caracteres delimitado por "". Por ejemplo "1" es un caracter y 1 es un número
+Funciones: nos sirve para agrupar codigo que luego vamos a usar muchas veces. Return es para que esa funcion nos devuelva algo, todo codigo escrito debajo del return no se lee. En caso de haber mas de un return solo se lee el de arriba
+Declaraciones: decir If - Else es lo mismo a decir Si - Si no
+Valores booleanos: una expresion booleana solo tiene dos valores, estos son true y false.
