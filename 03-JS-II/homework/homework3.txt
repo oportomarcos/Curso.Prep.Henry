@@ -1,0 +1,6 @@
+homework 3 
+
+for: sirve para repetir un codigo muchas veces siempre y cuando este tenga valor verdadero. Es un ciclo que continua hasta que la declaracion del mismo sea False
+&&: significa "y" o "and". Evalua expresiones y devuelve verdadero si ambas lo son. En caso de que alguna sea False, devolvera como resultado de la operacion False.
+||: significa "o" o "or". Evalua expresiones y devuelve verdadero si alguna de las dos es verdadera. La unica forma de que de como resultado False es que ambas expresiones sean False.
+!: significa "no" o "not". Cambia el valor de la expresion. Ej: P = true   //  !P = false
