@@ -1,0 +1,1 @@
+array: un array es un arreglo. Es una lista de elementos ordenados, la cual se define entre [] y puede recibir cualquier tipo de dato. Para poder trabajar con mayor facilidad en los arrays podemos usar funciones como: push, pop, shift, unshift
