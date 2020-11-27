@@ -1,0 +1,6 @@
+homework n°5 objects
+
+objeto: un objeto es una estructura de datos que contiene mucha informacion sobre una sola cosa.en JavaScript todo se trabaja con objetos
+propiedad: es una clave del objeto, denominada key:value // clave : valor. Son unicas en un objeto y se definen con una coma
+metodos: son las funciones guardadas en objetos. ej: .push .pop .length
+bucle for in: es similar a los bucles utilizados anteriormente solo que, ya que los objetos no tienen no tienen indice numerico, es apenas diferente. comienza igual, solo que entre parentesis agregamos una variable con la palabra IN lo que hace que recorra cada clave del objeto hasta finalizar la ultima
