@@ -1,0 +1,3 @@
+homework 06-JS-V
+prototype: todos los objetos de JavaScript tienen como referencia a otro objeto llamado Prototype. Utiliza el keyword This. Sirve para asignar un solo metodo a distintas funciones, asi no repetimos el mismo codigo y no ocupamos tanta memoria
+Constructors (de clase): Un constructor es una "plantilla" de un objeto. Sirve para crear varios objetos que compartan las mismas propiedades o metodos. function Constructor empieza con Mayusculas y usa el keyword This. 
