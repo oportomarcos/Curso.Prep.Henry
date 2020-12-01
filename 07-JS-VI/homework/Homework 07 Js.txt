@@ -1,0 +1,9 @@
+Homework 07 Js
+
+funciones callback: JavaScript trata a las funciones como First Class. Esto significa que las funciones se pueden pasar como argumentos a otras funciones, retornarlas como resultado de una funcion y guardarlas en variables u otras estructuras de datos.
+hay metodos que utilizan los callbacks como argumentos, estos son:
+.forEach: toma un callback como su unico argumento e itera sobre cada elemento de la matriz
+.map: se usa cuando queremos cambiar cada elemento de la matriz de la misma manera. por ej: multiplicar todos los numeros por 5
+.reduce: tiene la funcion de tomar todos los elementos de la matriz y los reduce a un solo elemento. Para ello necesita dos argumentos: uno es un acumulador (acc), que es el resultado del metodo de reduccion. El otro es el elemento en el que se encuentra actualmente.
+	Este callback siempre tiene que tener la funcion Return.
+	
